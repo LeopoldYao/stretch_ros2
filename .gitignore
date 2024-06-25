@@ -1,0 +1,19 @@
+# Ignore directories created by colcon
+build/
+install/
+log/
+
+# Ignore Python bytecodes
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE and text editor junk
+.vscode/
+*.swp
+*.bak
+*.tmp
+
+# Ignore all log files
+*.log
+
