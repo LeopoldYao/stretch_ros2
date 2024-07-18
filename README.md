@@ -1,2 +1,1 @@
-# safe_stretch
-Safe Teleoperation of Mobile Manipulators for Quadriplegic Assistance
+# stretch_ros2
